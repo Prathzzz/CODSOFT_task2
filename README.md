@@ -1,3 +1,5 @@
 # CODSOFT_task2:
 OUTPUT:
-![Screenshot (60)](https://github.com/Prathzzz/CODSOFT_task2/assets/109454557/1c732b72-58ca-47a6-99bc-ffd95575cbd0)
+
+
+![Screenshot (62)](https://github.com/Prathzzz/CODSOFT_task2/assets/109454557/9bd92070-b3be-4f3a-8787-9f3e085f1122)
